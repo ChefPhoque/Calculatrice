@@ -1,0 +1,48 @@
+table{
+	border-collapse: separate;
+	background-color: darkorange;
+	border-radius: 8px;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+td, th{
+	border: 2px solid black;
+    size: 1;
+    width: 60px;
+    border-radius: 7px;
+	font-size: 45px;
+}
+
+td {
+	text-align: center;
+}
+
+td:hover {
+	cursor:;
+}
+
+.chiffre{
+	background-color: cyan;
+}
+
+.chiffre:hover{
+	background-color: darkcyan;
+}
+
+.symbole{
+	background-color: orange;
+}
+
+.symbole:hover{
+	background-color: darkorange;
+}
+
+.egal{
+	background-color: lightgrey;
+}
+
+#zero{
+	background-color: white;
+	text-align: right;
+}
